@@ -2,7 +2,7 @@
 This repository contains datasets, demo code, and results that complement academic material published in the IEEE Antennas and Wireless Propagation Letters.</br>
 **Using these datasets requires appropriate citations.**
 
-[S.B.F Gomes, N. Simmons, P. C. Sofotasios, M. D. Yacoub, and S. L. Cotton, "Genetic Algorithms for Channel Parameter Estimation in Indoor Millimeter-Wave Environments", publisinhed to the IEEE Antennas and Wireless Propagation Letters, 24 Jan. 2024.](https://ieeexplore.ieee.org/abstract/document/10251547/)
+[S.B.F Gomes, N. Simmons, P. C. Sofotasios, M. D. Yacoub, and S. L. Cotton, "Genetic Algorithms for Channel Parameter Estimation in Indoor Millimeter-Wave Environments", published in the IEEE Antennas and Wireless Propagation Letters, 14 Sept. 2023.](https://ieeexplore.ieee.org/abstract/document/10251547/)
 
 ## Dependencies
 
